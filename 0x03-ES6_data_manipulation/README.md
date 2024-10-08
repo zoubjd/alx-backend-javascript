@@ -1,0 +1,1 @@
+this is the directory for data structres in ES6 JS
